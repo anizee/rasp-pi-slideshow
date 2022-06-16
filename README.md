@@ -1,6 +1,8 @@
 Raspberry Pi Slideshow
 ======================
 
+#### This will be edited with https://www.instructables.com/DIY-Raspberry-Pi-24-Digital-Picture-Photo-Frame/
+
 A self-booting slideshow (also sometimes referred to as a digital picture frame), created on a raspberry pi, originally configured for the exhibition Hard To Please at Little Berlin art space, November 2014.
 
 When configured properly your raspberry pi (when it's booted) will turn on and launch a looping slideshow, directly from the command line. 
