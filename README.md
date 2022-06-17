@@ -2,6 +2,7 @@ Raspberry Pi Slideshow
 ======================
 
 #### This will be edited with https://www.instructables.com/DIY-Raspberry-Pi-24-Digital-Picture-Photo-Frame/
+#### RBI commands https://www.raspberrypi-spy.co.uk/2017/02/how-to-display-images-on-raspbian-command-line-with-fbi/
 
 A self-booting slideshow (also sometimes referred to as a digital picture frame), created on a raspberry pi, originally configured for the exhibition Hard To Please at Little Berlin art space, November 2014.
 
